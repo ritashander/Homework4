@@ -1,0 +1,15 @@
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.csproj.AssemblyReference.cache
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.AssemblyInfoInputs.cache
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.AssemblyInfo.cs
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.csproj.CoreCompileInputs.cache
+/Users/ritasander/Homework4/Homework4/work 2/bin/Debug/net7.0/work 2
+/Users/ritasander/Homework4/Homework4/work 2/bin/Debug/net7.0/work 2.deps.json
+/Users/ritasander/Homework4/Homework4/work 2/bin/Debug/net7.0/work 2.runtimeconfig.json
+/Users/ritasander/Homework4/Homework4/work 2/bin/Debug/net7.0/work 2.dll
+/Users/ritasander/Homework4/Homework4/work 2/bin/Debug/net7.0/work 2.pdb
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.dll
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/refint/work 2.dll
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.pdb
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/work 2.genruntimeconfig.cache
+/Users/ritasander/Homework4/Homework4/work 2/obj/Debug/net7.0/ref/work 2.dll
